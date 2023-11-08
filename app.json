@@ -7,7 +7,27 @@
     "plugins": [
       "expo-router"
     ],
-    "name": "React_Native_JobFinder",
-    "slug": "React_Native_JobFinder"
+    "name": "React_Native_JobFinder_DevTest",
+    "slug": "ReactNativeJobFinderDevtest",
+    "version": "1.0.0",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "7ab652e7-b436-440e-a90b-269575fbaace"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/dfa554e0-a93e-4da3-a686-abd8a1cb9b80"
+    },
+    "android": {
+      "package": "com.React.Native.JobFinder.DevTest",
+      "versionCode": 1
+    },
+    "ios": {}
   }
 }

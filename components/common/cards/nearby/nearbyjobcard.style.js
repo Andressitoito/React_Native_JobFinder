@@ -37,7 +37,7 @@ const styles = StyleSheet.create({
   },
   jobType: {
     fontSize: SIZES.small + 2,
-    fontFamily: "DMRegular",
+    fontFamily: "Roboto",
     color: COLORS.gray,
     marginTop: 3,
     textTransform: "capitalize",
